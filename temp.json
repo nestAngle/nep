@@ -28,6 +28,7 @@
     ],
     "kp": false,
     "up": false,
+    "cp": false,
     "wb": false,
     "ajfm": true
 }
