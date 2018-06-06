@@ -170,3 +170,7 @@
 [<module 'time' (built-in)>] local variable 'K0' referenced before assignment
 [<module 'time' (built-in)>] local variable 'K0' referenced before assignment
 [<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid size of contactIds', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not datetime.datetime
